@@ -1,0 +1,45 @@
+1. - efek gitar menggunakan library matplotlib yang berfungsi untuk visualisasi grafik. yang mana pada program ini bertujuan untuk menampilkan grafik perbedaan efek gitar yang menggunakan distorsi dan tidak menggunakan efek gitar.
+ - adapun untuk library selanjutnya menggunakan pygame.mixer as mx yang dipakai untuk pemutaran audio yang dipadukan dengan mixer sehingga music dapat diputar dan dijalankan
+ - sound fil as sf ini adalah modul yang berfungsi membaca dan menulis file suara
+- untuk selanjutnya terdapat tkinter yang mana akan menampilkan gaphic user interface(GUI) dan menampilkan komponen - komponen seperti buttom,text box dll. dan library ini digunakan untuk menampilkan menu yang mana didalam nya terdapat tampilan efek gitar'
+- untuk library yang terakhir menggunakan liborsa yang berfungsi untuk analisis audio yang membantu pengembang perangkat lunak membangun aplikasi untuk bekerja dengan format file audio dan musik menggunakan python. 
+
+
+REVISI
+
+- revisi efek gitar
+
+algoritma secara system (penjelasan)
+flowchart 
+
+- eye deteksi
+
+id detector flowchart
+algoritma sytem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
